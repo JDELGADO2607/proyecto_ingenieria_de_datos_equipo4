@@ -72,7 +72,7 @@ DELIMITER ;
 call consultarJerarquia;
 
 
-/* ---- REQUISITO 28 - PROCEDIMIENTO ----
+/* ---- REQUISITO 28 - VISTA ----
 NOMBRE: Comparacion entre vendors
 DESCRIPCION: El sistema DV debe mostrar las estadısticas de inconsistencias de cada vendor y su frecuencia
 USUARIOS: Division de Equity Core */
